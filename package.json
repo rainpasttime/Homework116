@@ -20,5 +20,8 @@
   "devDependencies": {
     "jasmine": "^2.6.0",
     "sinon": "^2.3.5"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.7"
   }
 }
